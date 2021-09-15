@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Roman. I'm currently doing my PhD in Control and Decision Science at University College Dublin.
+- 👋 Hi, I’m Roman. I'm currently doing my PhD in Control and Decision Science (closed-loop learning for smart cities) at University College Dublin. I am also a Research Intern working on smart contract protocol at IOTA Foundation.
 - 👀 I’m interested in machine learning, distributed ledger technology, open source software development.
-- 🌱 I’m currently learning high performance computing in C/C++, the Go programming language.
-- 📫 How to reach me: roman.1e2f5p8s.over3@gmail.com, roman.overko@ucdconnect.ie
+- 🌱 I’ve recently learnt high performance computing in C/C++, and the Go programming language.
+- 📫 How to reach me: roman.overko@iota.org, roman.overko@ucdconnect.ie
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
