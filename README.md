@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman. I am a Research Scientist working on layer-1 smart contracts at the IOTA Foundation.
-- 👀 I’m interested in distributed ledger technology, machine learning, open source software development.
-- 🌱 I’ve recently learnt high performance computing in C/C++, Pyomo, and the Go programming language.
+- 👀 I’m interested in distributed ledger technology, machine learning, open-source software development.
+- 🌱 I’ve recently learned the Rust programming language.
 - 📫 How to reach me: roman.overko@iota.org, roman.overko@ucdconnect.ie
 <!---- 💞️ I’m looking to collaborate on ...--->
 
