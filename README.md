@@ -1,4 +1,5 @@
-## Hi there 👋
+- 🔭 Hi, I am Roman. I am a Research Scientist conducting Core Protocol Research at the IOTA Foundation.
+- 🌱 I have recently learned the Rust programming language.
 
 <!--
 **roman1e2f5p8s/roman1e2f5p8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
